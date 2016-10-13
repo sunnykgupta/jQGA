@@ -25,6 +25,6 @@
                 options.pageview && ga('send', {
                   hitType: 'pageview'
                 });
-              };
+              }
     });
 })(jQuery);
