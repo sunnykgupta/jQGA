@@ -1,0 +1,13 @@
+{
+  "name": "jQGA",
+  "author": { "name" : "Sunny R Gupta",
+              "email" : "sunnykrgupta@gmail.com",
+              "url" : "http://icodestartups.com/"
+            },
+  "version": "v0.1",
+  "homepage": "https://github.com/sunnykgupta/jQGA",
+  "description": "Simple Plug & Play jQuery Google Analytics plugin. Simply include the script on any page and call the jQuery plugin to initialize the analytics library.",
+  "repository": "https://github.com/sunnykgupta/jQGA",
+  "main": "dist/jQGA.min.js",
+  "license" : "MIT"
+}
